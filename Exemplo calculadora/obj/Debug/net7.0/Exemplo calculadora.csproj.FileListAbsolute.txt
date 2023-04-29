@@ -1,0 +1,18 @@
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\bin\Debug\net7.0\Exemplo calculadora.exe
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\bin\Debug\net7.0\Exemplo calculadora.deps.json
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\bin\Debug\net7.0\Exemplo calculadora.runtimeconfig.json
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\bin\Debug\net7.0\Exemplo calculadora.dll
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\bin\Debug\net7.0\Exemplo calculadora.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.csproj.AssemblyReference.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.AssemblyInfoInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.AssemblyInfo.cs
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.csproj.CoreCompileInputs.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.dll
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\refint\Exemplo calculadora.dll
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.pdb
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.genruntimeconfig.cache
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\ref\Exemplo calculadora.dll
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luanc\OneDrive\Área de Trabalho\Exemplo calculadora\obj\Debug\net7.0\Exemplo calculadora.csproj.CopyComplete
